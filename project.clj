@@ -1,4 +1,4 @@
-(defproject incanter-contrib-distribution "0.1.2"
+(defproject incanter-contrib-distribution "0.1.3-SNAPSHOT"
   :description "Implement more distribution using commons-math."
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
