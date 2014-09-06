@@ -1,6 +1,6 @@
 # incanter-contrib-distribution
 
-A Clojure library designed to ... well, that part is up to you.
+Incanter Distribution protocol wrapper for various distribution implementation in Apache Commons Math.
 
 ## Usage
 
